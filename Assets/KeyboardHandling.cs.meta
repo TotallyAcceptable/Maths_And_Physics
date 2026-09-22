@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 67fd18e9f1d13d9469e02dc87f48cae9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerController: {fileID: 1552676990921170756, guid: 6b981eb8e489a524da26c7852d72e46a, type: 3}
+  - obstaclePrefab: {fileID: 9066152768372207365, guid: 7fea2259e3586b64d8dcedae19f6e7bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
